@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img{
+    min-height: 945px;
+    background-image: url("../img/Rectangle 26 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.padding-top{
+    padding-top: 120px;
+}
+.padding-top1{
+    padding-top: 60px;
+}
+.hover{
+    transition: 0.8s ease-in-out;
+}
+.hover:hover{
+    border-bottom: 2px solid white;
+    transform: scale(1.2);
+}
+.servis{
+    margin-left: -30px;
+}
